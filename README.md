@@ -16,7 +16,7 @@ An interactive Streamlit dashboard for visualizing and analyzing global happines
 - **Data Export**: Download filtered data as CSV
 
 ## Live App
-https://world-happiness-dashboard.streamlit.app
+https://world-happiness-report-dashboard.streamlit.app/
 
 ## How to Run
 ```bash
